@@ -20,7 +20,7 @@ public class Application {
     @RequestMapping("/calc2")
     public String home() {
         int a= 15;
-        int b = 4;
+        int b = 9;
         int sumar = sum(a,b);
         int subs = substract(a,b);
         int divid = divide(a,b);
