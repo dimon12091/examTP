@@ -1,234 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="8d221938-194b-49ea-990c-75738011d528" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Arquillian JUnit Test Class" />
-        <option value="Class" />
-        <option value="JUnit4 Test Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-        <option name="lookForNested" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="1V7cPQS0uT0E5k8gH7neuFGktdU" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
+  <component name="ProjectId" id="1VLsGLU8zuZ1MXU1CB1QhYIvQo0" />
   <component name="PropertiesComponent">
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="hello" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Application">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello.Application" />
-      <module name="examTP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hello.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApplicationTest.homedata" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="gs-spring-boot-docker (1)" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hello.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="hello" />
-      <option name="MAIN_CLASS_NAME" value="hello.ApplicationTest" />
-      <option name="METHOD_NAME" value="homedata" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="gs-spring-boot-docker (1)" />
+      <module name="gs-spring-boot-docker" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="hello.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Application" />
-        <item itemvalue="JUnit.ApplicationTest.homedata" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="8d221938-194b-49ea-990c-75738011d528" name="Default Changelist" comment="" />
-      <created>1576607549921</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1576607549921</updated>
-      <workItem from="1576607558101" duration="1113000" />
-      <workItem from="1576671007877" duration="2082000" />
-      <workItem from="1577031193370" duration="3358000" />
-      <workItem from="1577037366519" duration="4929000" />
-    </task>
-    <task id="LOCAL-00001" summary="Commit on exam">
-      <created>1576671890393</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1576671890393</updated>
-    </task>
-    <task id="LOCAL-00002" summary="TP">
-      <created>1577039298281</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1577039298281</updated>
-    </task>
-    <task id="LOCAL-00003" summary="TPv2">
-      <created>1577042557461</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1577042557461</updated>
-    </task>
-    <task id="LOCAL-00004" summary="TPv2">
-      <created>1577042716580</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1577042716581</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit on exam" />
-    <MESSAGE value="TP" />
-    <MESSAGE value="TPv2" />
-    <option name="LAST_COMMIT_MESSAGE" value="TPv2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="365" y="70" key="#ApplicationTest.homedata" timestamp="1577031295380">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1577043821990">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="365" y="70" key="#ApplicationTest.homedata/0.0.1536.864@0.0.1536.864" timestamp="1577031295380" />
-    <state x="142" y="26" key="CommitChangelistDialog2" timestamp="1577042715120">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1577043821990" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1577043821990">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="142" y="26" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1577042715120" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1577042965733">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1577043821990" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1577043821990">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1577042965733" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1577042965733">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1577043821990" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1577043821990">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1577042965733" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1577042965733">
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1577043821990" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1577043627696">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1577042965733" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1577042965733">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1577042965733" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1577042719968">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1577042719968" />
-    <state x="540" y="150" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1577032199763">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="540" y="150" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1577032199763" />
-    <state x="463" y="37" width="609" height="789" key="find.popup" timestamp="1577031428447">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="463" y="37" width="609" height="789" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1577031428447" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1577032942955">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1577032942955" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1577043627696" />
   </component>
 </project>
