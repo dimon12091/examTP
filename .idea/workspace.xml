@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8d221938-194b-49ea-990c-75738011d528" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +134,7 @@
       <workItem from="1576607558101" duration="1113000" />
       <workItem from="1576671007877" duration="2082000" />
       <workItem from="1577031193370" duration="3358000" />
-      <workItem from="1577037366519" duration="4413000" />
+      <workItem from="1577037366519" duration="4929000" />
     </task>
     <task id="LOCAL-00001" summary="Commit on exam">
       <created>1576671890393</created>
@@ -151,7 +150,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577039298281</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="TPv2">
+      <created>1577042557461</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577042557461</updated>
+    </task>
+    <task id="LOCAL-00004" summary="TPv2">
+      <created>1577042716580</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577042716581</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,37 +186,38 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit on exam" />
     <MESSAGE value="TP" />
-    <option name="LAST_COMMIT_MESSAGE" value="TP" />
+    <MESSAGE value="TPv2" />
+    <option name="LAST_COMMIT_MESSAGE" value="TPv2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="365" y="70" key="#ApplicationTest.homedata" timestamp="1577031295380">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="365" y="70" key="#ApplicationTest.homedata/0.0.1536.864@0.0.1536.864" timestamp="1577031295380" />
-    <state x="142" y="26" key="CommitChangelistDialog2" timestamp="1577042557005">
+    <state x="142" y="26" key="CommitChangelistDialog2" timestamp="1577042715120">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="142" y="26" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1577042557005" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1577042457046">
+    <state x="142" y="26" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1577042715120" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1577042965733">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1577042457046" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1577042457046">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1577042965733" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1577042965733">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1577042457046" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1577042457046">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1577042965733" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1577042965733">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1577042457046" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1577042457046">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1577042965733" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1577042965733">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1577042457046" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1577042559308">
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1577042965733" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1577042719968">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1577042559308" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1577042719968" />
     <state x="540" y="150" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1577032199763">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
