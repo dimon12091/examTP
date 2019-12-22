@@ -49,7 +49,7 @@ public class Application {
         return quartal;
     }
 
-    @RequestMapping("/calc")
+    @RequestMapping("/fine")
     public String homecalc() {
         int a= 15;
         int b = 4;
