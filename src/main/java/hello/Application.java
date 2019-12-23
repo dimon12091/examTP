@@ -5,9 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.util.Calendar;
-import java.util.Date;
-import java.util.GregorianCalendar;
+import java.io.PrintWriter;
+import java.util.Scanner;
 
 import static hello.Calculator.*;
 import static hello.Fibonachi.fib;
@@ -17,19 +16,14 @@ import static hello.Recursive_factorial.factorial;
 @RestController
 public class Application {
 
-    @RequestMapping("/calc2")
+    @RequestMapping("/")
     public String home() {
-        int a= 15;
-        int b = 9;
-        int sumar = sum(a,b);
-        int subs = substract(a,b);
-        int divid = divide(a,b);
-        int mult = multiplication(a,b);
-        String str = "Sum of "+Integer.toString(a)+"+"+Integer.toString(b)+" is: "+Integer.toString(sumar);
-        String str2 = "Substract of "+Integer.toString(a)+"-"+Integer.toString(b)+" is: "+Integer.toString(subs);
-        String str3 = "Division of "+Integer.toString(a)+"/"+Integer.toString(b)+" is: "+Integer.toString(divid);
-        String str4 = "Multiple of "+Integer.toString(a)+"*"+Integer.toString(b)+" is: "+Integer.toString(mult);
-        return str+"\n"+str2+"\n"+str3+"\n"+str4;
+        int n= 12;
+        int a = 5;
+        int d = 2;
+        int S = a + d*(n-1);
+        String str = "Number of 12 : "+Integer.toString(S);
+        return str;
     }
     @RequestMapping("/fact")
     public String homefact() {
@@ -49,7 +43,7 @@ public class Application {
         return quartal;
     }
 
-    @RequestMapping("/calc")
+    @RequestMapping("/fine")
     public String homecalc() {
         int a= 15;
         int b = 4;
@@ -63,6 +57,8 @@ public class Application {
         String str4 = "Multiple of "+Integer.toString(a)+"*"+Integer.toString(b)+" is: "+Integer.toString(mult);
         return str+"\n"+str2+"\n"+str3+"\n"+str4;
     }
+
+
     @RequestMapping("/fib")
     public String homefib() {
         int a = 10;

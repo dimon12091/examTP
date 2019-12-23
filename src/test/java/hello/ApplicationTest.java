@@ -32,4 +32,13 @@ public class ApplicationTest {
         int result = c.get(Calendar.MONTH)/3+1;
         Assert.assertEquals(expectedResult, result);
     }
-}
+
+    @Test
+    public void home() {
+            int n = 12;
+            int a = 5;
+            int d = 2;
+            int S = a + d * (n - 1);
+            String str = "Number of 12 : " + Integer.toString(S);
+        }
+    }

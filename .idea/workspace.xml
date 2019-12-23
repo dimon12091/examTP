@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e621fca-afb3-45bf-9ebc-a830513d3255" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/arf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hello/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hello/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hello/ApplicationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +17,22 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1VLsGLU8zuZ1MXU1CB1QhYIvQo0" />
   <component name="ProjectViewState">
@@ -29,6 +45,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -37,7 +56,44 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="hello" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ApplicationTest.home">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.Application" />
+      <module name="gs-spring-boot-docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest.home" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gs-spring-boot-docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello" />
+      <option name="MAIN_CLASS_NAME" value="hello.ApplicationTest" />
+      <option name="METHOD_NAME" value="home" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="gs-spring-boot-docker" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="hello.Application" />
@@ -45,6 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApplicationTest.home" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -68,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577043614404</updated>
-      <workItem from="1577043624767" duration="1903000" />
+      <workItem from="1577043624767" duration="9356000" />
     </task>
     <task id="LOCAL-00001" summary="New commit">
       <created>1577043853597</created>
@@ -119,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577044780151</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New commit4">
+      <created>1577048249410</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577048249410</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,36 +198,57 @@
     <MESSAGE value="New commit" />
     <MESSAGE value="New commit2" />
     <MESSAGE value="New commit3" />
-    <option name="LAST_COMMIT_MESSAGE" value="New commit3" />
+    <MESSAGE value="New commit4" />
+    <option name="LAST_COMMIT_MESSAGE" value="New commit4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="380" y="26" key="CommitChangelistDialog2" timestamp="1577044778841">
+    <state x="380" y="26" key="CommitChangelistDialog2" timestamp="1577048248748">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="380" y="26" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1577044778841" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1577048009532">
+    <state x="380" y="26" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1577048248748" />
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom" timestamp="1577097553017">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1577048009532" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1577048009532">
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1577097553017" />
+    <state width="1493" height="277" key="GridCell.Tab.0.center" timestamp="1577097553017">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1577048009532" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1577048009532">
+    <state width="1493" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1577097553017" />
+    <state width="1493" height="277" key="GridCell.Tab.0.left" timestamp="1577097553017">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1577048009532" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1577048009532">
+    <state width="1493" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1577097553017" />
+    <state width="1493" height="277" key="GridCell.Tab.0.right" timestamp="1577097553017">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1577048009532" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1577044782436">
+    <state width="1493" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1577097553017" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1577097553018">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1577044782436" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1577097553018" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1577097553017">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1577097553017" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1577097553017">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1577097553017" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1577097553018">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1577097553018" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1577048251352">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1577048251352" />
     <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1577043627696">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1577043627696" />
+    <state x="870" y="56" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1577097179367">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="870" y="56" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1577097179367" />
   </component>
 </project>
